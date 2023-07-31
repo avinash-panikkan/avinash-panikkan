@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Avinash👋</h1>
 
 <h2>About Me</h2>
-<p>I'm a passionate [Your Profession] from [Your City, Country]. I enjoy working on [List Your Interests or Technologies] and always strive to expand my knowledge and skills in those areas. Apart from coding, I love [Other Hobbies or Interests].</p>
+<p>I'm a passionate Developer. I enjoy working on Back-end and Machine Learning projects and always strive to expand my knowledge and skills in those areas. Apart from coding, I love Designing.</p>
 
 <h2>Tech Stack</h2>
 <p align="center">
@@ -12,6 +12,7 @@
   <!-- Add more tech stack badges here -->
 </p>
 
+<!--
 <h2>Projects</h2>
 <ul>
   <li><a href="Link to the project">Project Name</a></li>
@@ -44,4 +45,4 @@
   <a href="Twitter Profile URL"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-<p align="center">Feel free to reach out to me for any collaboration or project ideas. I'm always open to learning and exploring new opportunities!</p>
+<p align="center">Feel free to reach out to me for any collaboration or project ideas. I'm always open to learning and exploring new opportunities!</p>-->
